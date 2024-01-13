@@ -1,0 +1,52 @@
+Label	Description
+date	Quarterly frequency; Date
+Total Nonfinancial	Total nonfinancial debt; Millions of dollars; Level, seasonally adjusted (SA) (LA384104005.Q)
+Households and Nonprofits	Household and nonprofits debt; Millions of dollars; Level, seasonally adjusted (SA) (LA154104005.Q)
+Nonfinancial Business	Nonfinancial business debt; Millions of dollars; Level, seasonally adjusted (SA) (LA144104005.Q)
+Federal Government	Federal Government debt; Millions of dollars; Level, seasonally adjusted (SA) (LA314104005.Q)
+State & Local Governments	State and local government debt; Millions of dollars; Level, seasonally adjusted (SA) (LA214104005.Q)
+GDP	GDP; Millions of dollars; Transactions at a seasonally adjusted annual rate (SAAR) (FA086902001.Q)
+Total Nonfinancial Debt Growth	Total nonfinancial debt; Growth rate, seasonally adjusted (FG384104005.Q)
+Households and Nonprofits Debt Growth	Households and nonprofits debt; Growth rate, seasonally adjusted (FG154104005.Q)
+Nonfinancial Business Debt Growth	Nonfinancial business debt; Growth rate, seasonally adjusted (FG144104005.Q)
+Federal Government Debt Growth	Federal Government debt; Growth rate, seasonally adjusted (FG314104005.Q)
+State and Local Governments Debt Growth	State and local governments debt; Growth rate, seasonally adjusted (FG214104005.Q)
+Nonfinancial Corporate Business	Corporate nonfinancial debt; Millions of dollars; Level, seasonally adjusted (SA) (LA104104005.Q)
+Nonfinancial Noncorporate Business	Noncorporate nonfinancial debt; Millions of dollars; Level, seasonally adjusted (SA) (LA114104005.Q)
+Noncorporate Business; Nonmortgage Depository Loans	Noncorporate debt: nonmortgage depository loans; Millions of dollars; Level, seasonally adjusted (SA) (LA113168005.Q)
+Noncorporate Business; Mortgages	Noncorporate debt: mortgages; Millions of dollars; Level, seasonally adjusted (SA) (LA113165005.Q)
+Noncorporate Business; Other	Noncorporate debt: other; Millions of dollars; Level, seasonally adjusted (SA) (LA113169005.Q)
+Corporate Business; Corporate Bonds	Corporate debt: corporate bonds; Millions of dollars; Level, seasonally adjusted (SA) (LA103163003.Q)
+Corporate Business; Nonmortgage Depository Loans	Corporate debt: nonmortgage depository loans; Millions of dollars; Level, seasonally adjusted (SA) (LA103168005.Q)
+Corporate Business; Mortgages	Corporate debt: mortgages; Millions of dollars; Level, seasonally adjusted (SA) (LA103165005.Q)
+Corporate Business; Commercial Paper	Corporate debt: commercial paper; Millions of dollars; Level, seasonally adjusted (SA) (LA103169100.Q)
+Corporate Business; Other	Corporate debt: other; Millions of dollars; Level, seasonally adjusted (SA)
+Total Nonfinancial; Share of GDP	Total nonfinancial debt; Share of GDP
+Households and Nonprofits; Share of GDP	Households and nonprofits debt; Share of GDP
+Nonfinancial Business; Share of GDP	Total business debt; Share of GDP
+Federal Government; Share of GDP	Federal Government debt; Share of GDP
+State & Local Government; Share of GDP	State and local governments debt; Share of GDP
+Nonfinancial Corporate Business; Share of GDP	Corporate business debt; Share of GDP
+Nonfinancial Noncorporate Business; Share of GDP	Noncorporate business debt; Share of GDP
+Noncorporate Nonmortgage Depository Loans; Share of GDP	Noncorporate debt: nonmortgage depository loans; Share of GDP
+Noncorporate Mortgages; Share of GDP	Noncorporate debt: mortgages; Share of GDP
+Noncorporate Other Nonfinancial Debt; Share of GDP	Noncorporate debt: other; Share of GDP
+Corporate Bonds; Share of GDP	Corporate debt: corporate bonds; Share of GDP
+Corporate Nonmortgage Depository Loans; Share of GDP	Corporate debt: nonmortgage depository loans; Share of GDP
+Corporate Mortgages; Share of GDP	Corporate debt: mortgages; Share of GDP
+Corporate Commerical Paper; Share of GDP	Corporate debt: commercial paper; Share of GDP
+Corporate Other; Share of GDP	Corporate debt: other; Share of GDP
+Households and Nonprofits; Share of Total Nonfinancial Debt	Households and nonprofits share of total nonfinancial business debt
+Nonfinancial Business; Share of Total Nonfinacial Debt	Nonfinancial business debt share of total nonfinancial business debt
+Federal Government; Share of Total Nonfinancial Debt	Federal government share of total nonfinancial business debt
+State & Local Governments; Share of Total Nonfinancial Debt	State and local governments share of total nonfinancial business debt
+Nonfinancial Corporate Business; Share of Total Nonfinancial Business Debt	Corporate business share of total nonfinancial business debt
+Nonfinancial Noncorporate Business; Share of Total Nonfinancial Business Debt	Noncorporate business share of total nonfinancial business debt
+Noncorporate Nonmortgage Depository Loans; Share of Nonfinancial Noncorporate Business Debt	Noncorporate nonmortgage depository loans share of nonfinancial noncorporate business debt
+Noncorporate Mortgages; Share of Nonfinancial Noncorporate Business Debt	Noncorporate mortgages share of nonfinancial noncorporate business debt
+Noncorporate Other; Share of Nonfinancial Noncorporate Business Debt	Noncorporate other debt share of nonfinancial noncorporate business debt
+Corporate Bonds; Share of Nonfinancial Corporate Business Debt	Corporate bonds share of nonfinancial corporate business debt
+Corporate Nonmortgage Depository Loans; Share of Nonfinancial Corporate Business Debt	Corporate nonmortgage depository loans share of nonfinancial corporate business debt
+Corporate Mortgages; Share of Nonfinancial Corporate Business Debt	Corporate mortgages share of nonfinancial corporate business debt
+Corporate Commerical Paper; Share of Nonfinancial Corporate Business Debt	Corporate commercial paper share of nonfinancial corporate business debt
+Corporate Other; Share of Nonfinancial Corporate Business Debt	Corporate other debt share of nonfinancial corporate business debt
