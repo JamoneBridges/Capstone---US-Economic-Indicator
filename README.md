@@ -12,18 +12,17 @@ The challenge at hand is to design an economic indicator with predictive capabil
 
 The project relies on a collection of macroeconomic datasets provided by various U.S. government departments, including:
 
-- **Federal Reserve**
+- **National Bureau of Economic Research**
 - **U.S. Bureau of Labor Statistics**
 - **Bureau of Economic Analysis**
 
 These datasets encompass a comprehensive set of economic measurements, including:
 
-- Household Debt
-- Household Income
 - Household Assets
-- Labor Force Statistics
-- Unemployment Rates
-- Consumer Price Index (CPI)
+- Employment Level
+- Unemployment Level
+- Mining Income
+- US Federal Government Spending
 
 These datasets serve as the foundational source of information for the indicator, allowing the incorporation of diverse economic factors into our predictive model.
 
