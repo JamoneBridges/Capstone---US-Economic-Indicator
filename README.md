@@ -35,9 +35,12 @@ By synthesizing this array of datasets and applying data science techniques, the
 
 ### Project Flowchart
 
-...
-...
-...
+```mermaid
+graph LR
+A[Find Quality Data Sources] --> B[Clean and Align Data] --> C[EDA] --> D[Baseline Model]
+D --> E[Perform Modeling] --> F[Analyze Results] --> G[Share Findings]
+```
+
 
 ### Project Organization
 
